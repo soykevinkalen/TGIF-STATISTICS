@@ -8,5 +8,5 @@ Podran ver la aplicación web en: https://tgif-statistics.netlify.app/
 
 # Construido con 🛠️
 - HTML5
-- BOOTSTRAP
+- BOOTSTRAP 5
 - Javascript vainilla
